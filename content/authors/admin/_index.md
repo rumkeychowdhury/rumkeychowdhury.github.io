@@ -166,4 +166,8 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Hi, this is Rumkey Chowdhury. I have recently graduated from Urban and Regional Planning at BUET. I am an enthusiastic learner, and dedicated to research. I’m also passionately working as Vice Chairperson at the IEEE WIE BUET and Designer Head at IEEE BUET Student Branch.
+
+I completed my thesis research focused on electricity consumption trends for different usages and developing regression models to quantify the impact of the built environment and spatial factors on electricity consumption in Dhaka.
+
+Seeking Engaging Opportunities in the Urban and Regional Planning and Civil Engineering Domains. My goal is to contribute meaningfully to innovative projects while continuously expanding my skills and interests.
